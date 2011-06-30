@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/81/trunk/iphone.socket
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/80/trunk/iphone.socket/main.m
+END
+iphone_socket_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/80/trunk/iphone.socket/iphone_socket_Prefix.pch
+END
+iphone_socketViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/80/trunk/iphone.socket/iphone_socketViewController.xib
+END
+iphone_socket-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/80/trunk/iphone.socket/iphone_socket-Info.plist
+END
+MainWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/80/trunk/iphone.socket/MainWindow.xib
+END

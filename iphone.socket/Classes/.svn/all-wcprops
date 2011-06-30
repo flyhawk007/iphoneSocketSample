@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/80/trunk/iphone.socket/Classes
+END
+iphone_socketViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/80/trunk/iphone.socket/Classes/iphone_socketViewController.h
+END
+AsyncSocket.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/80/trunk/iphone.socket/Classes/AsyncSocket.m
+END
+iphone_socketAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/80/trunk/iphone.socket/Classes/iphone_socketAppDelegate.m
+END
+iphone_socketViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/80/trunk/iphone.socket/Classes/iphone_socketViewController.m
+END
+AsyncSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/80/trunk/iphone.socket/Classes/AsyncSocket.h
+END
+iphone_socketAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/80/trunk/iphone.socket/Classes/iphone_socketAppDelegate.h
+END
